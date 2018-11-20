@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">SEG2105Project</string>
+    <string name="viewAccount">AccountNumber</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_user">NumberOfUser</string>
+    <string name="ServiceCategory">Category</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string-array name="aWeek">
+        <item>Please choose a day...</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+    <string-array name="time_day">
+        <item>Please choose a time...</item>
+        <item>8:00-10:00</item>
+        <item>10:00-12:00</item>
+        <item>12:00-14:00</item>
+        <item>14:00-16:00</item>
+        <item>16:00-18:00</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_nevigation_draw">NevigationDraw</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>
